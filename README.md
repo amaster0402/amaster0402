@@ -53,11 +53,11 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sunmoon11100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
 
- sunmoon11100 | sunmoon11100
+ Am@ster0402 | Am@ster0402
 --- | --- 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8)
 
