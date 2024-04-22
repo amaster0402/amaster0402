@@ -1,6 +1,6 @@
 ![](./src/header_.png)
 <p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Amaster ;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Victor;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;12%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
@@ -53,13 +53,13 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amaster0402&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sunmoon11100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
  sunmoon11100 | sunmoon11100
 --- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=amaster0402&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8)
+![github stats](https://github-readme-stats.vercel.app/api?username=sunmoon11100&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunmoon11100&theme=github_dark&layout=compact&langs_count=8)
 
 </div>
 
